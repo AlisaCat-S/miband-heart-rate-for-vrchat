@@ -11,3 +11,5 @@ repository = "https://github.com/Tnze/miband-heart-rate"
 tokio = { version = "1.40.0", features = ["macros", "rt-multi-thread"] }
 bluest = "0.6.6"
 futures-lite = "2.3.0"
+chrono = "0.4.41"
+rosc = "0.11.4"
